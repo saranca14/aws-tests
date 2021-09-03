@@ -1,0 +1,7 @@
+{
+  "customer_kms_key_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "cb85f044-61d8-412d-a676-9717f9659ce6"
+  }
+}
